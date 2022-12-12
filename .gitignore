@@ -1,0 +1,12 @@
+vendor/lib64/mt6985/libaibc_tuning_p2.so
+vendor/lib64/mt6985/libaibc_tuning.so
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
+system/system/app/VivoThemeRes/VivoThemeRes.apk
+system/system/app/VideoPlayer/VideoPlayer.apk
+system/system/app/LiveWallpaperBoxRes/LiveWallpaperBoxRes.apk
+system/system/app/VivoCamera/VivoCamera.apk
+system/system/framework/vivo-res.apk
+system/system/priv-app/SystemUIPlugin/SystemUIPlugin.apk
+system/system/priv-app/JoviIme/JoviIme.apk
+system/system/priv-app/Settings/Settings.apk
